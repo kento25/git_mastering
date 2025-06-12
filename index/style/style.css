@@ -1,0 +1,22 @@
+body {
+  border: 10px;
+  padding: 05px;
+  margin: 10px;
+}
+
+h1 {
+  border: 2px solid black;
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: aquamarine;
+  color: blueviolet;
+}
+
+p {
+  /* border: 1px solid gray; */
+  padding: 4px;
+  /* line-height: 1.5; */
+  background-color: blueviolet;
+  color: aquamarine;
+  display: block;
+}
