@@ -4,3 +4,4 @@ console.log("hello");
 // added style
 // removing tag
 // making a div
+// function
